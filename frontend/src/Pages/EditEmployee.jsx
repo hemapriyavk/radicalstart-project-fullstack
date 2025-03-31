@@ -209,7 +209,7 @@ const EditEmployee = () => {
             className="w-28 py-3 mt-4 bg-[var(--color-blue-500)] text-[var(--color-white)] text-lg font-semibold rounded-lg cursor-pointer"
             type="submit"
           >
-            Confirm
+            Update
           </button>
         </div>
       </form>
